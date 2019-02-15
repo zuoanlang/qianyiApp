@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="B:/workspaceForIdea/demo/itcast-microservice-api-gateway/pom.xml" />
+        <option value="B:/workspaceForIdea/demo/itcast-microservice-eureka/pom.xml" />
+        <option value="B:/workspaceForIdea/demo/itcast-microservice-sso/pom.xml" />
+        <option value="B:/workspaceForIdea/demo/itcast-microservice-user/pom.xml" />
+        <option value="B:/workspaceForIdea/demo/itheima-microservice-course/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

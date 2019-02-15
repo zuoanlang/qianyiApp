@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/demo.iml" filepath="$PROJECT_DIR$/.idea/demo.iml" />
+      <module fileurl="file://B:/workspaceForIdea/demo/itcast-microservice-api-gateway/itcast-microservice-api-gateway.iml" filepath="B:/workspaceForIdea/demo/itcast-microservice-api-gateway/itcast-microservice-api-gateway.iml" />
+      <module fileurl="file://B:/workspaceForIdea/demo/itcast-microservice-eureka/itcast-microservice-eureka.iml" filepath="B:/workspaceForIdea/demo/itcast-microservice-eureka/itcast-microservice-eureka.iml" />
+      <module fileurl="file://B:/workspaceForIdea/demo/itcast-microservice-sso/itcast-microservice-sso.iml" filepath="B:/workspaceForIdea/demo/itcast-microservice-sso/itcast-microservice-sso.iml" />
+      <module fileurl="file://B:/workspaceForIdea/demo/itcast-microservice-user/itcast-microservice-user.iml" filepath="B:/workspaceForIdea/demo/itcast-microservice-user/itcast-microservice-user.iml" />
+      <module fileurl="file://B:/workspaceForIdea/demo/itheima-microservice-course/itheima-microservice-course.iml" filepath="B:/workspaceForIdea/demo/itheima-microservice-course/itheima-microservice-course.iml" />
+    </modules>
+  </component>
+</project>
